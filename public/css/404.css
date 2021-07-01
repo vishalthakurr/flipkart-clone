@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.cont  {
+    display: flex;
+    justify-content: center;
+    padding: 94px;
+}
+body{
+    background-color: #f7f8f9;
+}
